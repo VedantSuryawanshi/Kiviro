@@ -1,11 +1,11 @@
 {
   "private": true,
-  "name": "minimal-blog",
-  "description": "Typography driven, feature-rich blogging theme with minimal aesthetics. Includes tags/categories support and extensive features for code blocks such as live preview, line numbers, and line highlighting.",
+  "name": "Kiviro",
+  "description": "Portfolio website of Vedant Suryawanshi, Indian Entrepreneur, cofounder of Mekit.in, rpmtalks.in, RPM15 - Nashik's biggest supercar club.",
   "version": "1.3.10",
-  "author": "LekoArts <hello@lekoarts.de>",
+  "author": "Vedant Suryawanshi <hellovedantsuryawanshi@gmail.com>",
   "license": "0BSD",
-  "starter-name": "gatsby-starter-minimal-blog",
+  "starter-name": "Kiviro",
   "scripts": {
     "build": "gatsby build",
     "develop": "gatsby develop",
